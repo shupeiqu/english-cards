@@ -43,7 +43,7 @@
 
 收藏数据库位于 `~/Library/Application Support/EnglishCards/cards.sqlite3`，与源码文件夹分开存放。不要删除整个 EnglishCards 数据文件夹。
 
-仓库未包含个人收藏、日志或旧代码备份。`.gitignore` 排除了这些文件。
+仓库不包含个人收藏、日志或旧代码备份。个人收藏数据库保存在本机，不随源码上传。
 
 ## 测试
 
@@ -57,4 +57,4 @@
 
 ## 许可证
 
-发布前请添加你选定的开源许可证 `LICENSE`。许可证尚未随此上传包指定，发布后的授权范围以仓库中的 `LICENSE` 为准。
+本项目采用 MIT License 开源，详情请参阅仓库中的 `LICENSE` 文件。
